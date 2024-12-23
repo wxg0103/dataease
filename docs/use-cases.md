@@ -12,6 +12,7 @@
 - [案例研究丨国控星鲨利用DataEase释放数据潜能，重塑业务视野](https://blog.fit2cloud.com/?p=c4612cdf-e983-42d2-9bbb-818929d2eba7)
 - [案例研究｜北京交通大学基于DataEase开展多场景校园数据分析与展示](https://blog.fit2cloud.com/?p=9cdd8a00-5094-49c9-879e-a419546a0592)
 - [案例研究｜辛格林电梯借助DataEase实现数据整合与智能展示](https://blog.fit2cloud.com/?p=a3cf8301-f10e-4597-87bb-76bb59c7ebc2)
+- [案例研究｜DataEase助力无锡布勒业务数据可视化建设](https://blog.fit2cloud.com/?p=075bcf97-132f-4e79-b993-a1ec744859b5)
 - TBD
 - TBD
 - TBD
